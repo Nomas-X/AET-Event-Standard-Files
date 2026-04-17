@@ -1,3 +1,4 @@
+// LAST UPDATED 2026-04-18
 class Header
 {
 	gameType =  Zeus;	// Game type
@@ -41,4 +42,15 @@ disableChannels[] =
 		true,	// Disable Text Chat
 		false	// Disable Voice Chat
 	}
+};
+
+class PLP_SMT_RadialMenu
+{
+    Distance = 1;
+    MarkHouses = 0;
+    Height = 1;
+    Compass = 1;
+    EditGrid = 0;
+    FindFlat = 1;
+    LineOfSight = 1;
 };
