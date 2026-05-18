@@ -12,7 +12,7 @@ OnLoadName = "Mission name"; // Mission name in the loading screen, keep it shor
 OnLoadMission = "Powered by Open Group"; // Bottom of the loading screen, don't change
 loadScreen = "\z\aet\addons\common\images\Antistasi_event_team_2048x1024.paa"; // The picture displayed during loading screen
 overviewPicture = "\z\aet\addons\common\images\Antistasi_event_team_2048x1024.paa"; // The picture displayed in the mission selection screen
-briefingName = "Operation Some Thing"; // The Mission name with operation displayed in the mission selection men
+briefingName = "Operation Some Thing"; // The Mission name with operation displayed in the mission selection menu
 overviewText = "Description of the mission here"; // The text above the picture in the mission selection menu
 
 // Section 2
